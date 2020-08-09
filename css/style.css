@@ -27,7 +27,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-family: "Proxima nova", monospace;
+  font-family: "Proxima nova";
   color: var(--fg);
   font-size: 13.5px;
 }
